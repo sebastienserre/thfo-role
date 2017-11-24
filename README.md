@@ -1,10 +1,6 @@
 # THFO Role
+ 
 
-This mu-plugin add in 2 core buttons that's disabled by default : Subscript and Superscript.  
-
-## Screenshots
-
-![Screenshot](https://github.com/webaxones/wax-tinymce-subsup/raw/master/assets/screenshots/screenshot-1.png "Screenshot")
 
 ## Installation
 
@@ -14,7 +10,7 @@ Since this is a folder, you must use a MU Loader and I know of no better than th
 ### via Composer
 
 1. Add a line to your repositories array: `{ "type": "vcs", "url": "https://github.com/sebastienserre/thfo-role" }`
-2. Add a line to your require block: `"webaxones/wax-tinymce-subsup": "dev-master"`
+2. Add a line to your require block: `"sebastienserre/thfo-role"`
 3. Run: `composer update`
 
 ### Manual
@@ -23,5 +19,5 @@ Since this is a folder, you must use a MU Loader and I know of no better than th
 
 ## Changelog
 
-### 1.0.0 - 10 Sep 2017
+### 1.0.0 - 24 Nov 2017
 * Initial
