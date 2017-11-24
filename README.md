@@ -6,6 +6,7 @@
 
 This is a must have plugin, so, use at it as a mu-plugin.
 Since this is a folder, you must use a MU Loader and I know of no better than this one : https://github.com/BeAPI/wp-mu-loader.
+You can also just copy thfo-role.php in your `/wp-content/mu-plugins` folder.
 
 ### via Composer
 
@@ -15,7 +16,10 @@ Since this is a folder, you must use a MU Loader and I know of no better than th
 
 ### Manual
 
-1. Copy the plugin folder into your must use plugins folder.
+1. copy thfo-role.php in your `/wp-content/mu-plugins` folder
+
+2. **Define PHP Constants** to create your own role.
+
 
 ## Changelog
 

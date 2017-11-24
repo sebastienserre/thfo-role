@@ -24,9 +24,26 @@
 			$wp_roles = new WP_Roles();
 		}
 
+		/**
+		 * From which role would you like to copy to start creating your own role?
+		 * Replace administrator by an existing WP role
+		 */
 		define('ROLE_FROM', 'administrator');
-		define('ROLE_NAME', 'ladyzz');
-		define('DISPLAY_NAME', 'Gérant LZZ');
+
+		/**
+		 * Give an unique name to your role
+		 */
+
+		define('ROLE_NAME', 'role');
+
+		/**
+		 * Give a name which be used in admin to assign this role
+		 */
+		define('DISPLAY_NAME', 'My Great New Role');
+
+		/**
+		 * You make an error? You can delete the role by adding the ROLE_NAME
+		 */
 		define('ROLE2REMOVE', '');
 
 		/**
