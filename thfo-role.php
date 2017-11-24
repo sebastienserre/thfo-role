@@ -4,7 +4,7 @@
 	Plugin URI: https://www.thivinfo.com
 	Description: Create Role From admin removing theme & extension + some stuff
 	Author: Sébastien SERRE
-	Author URI: https://thivinfo.com
+	Author URI: https://www.paypal.me/sebastienserre
 	Version: 1.0.0
 	*/
 
