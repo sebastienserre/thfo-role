@@ -1,0 +1,13 @@
+{
+    "name": "sebastienserre/thfo-role",
+    "description": "Create WP Role easily",
+    "license": "GPL-2.0",
+    "authors": [{
+        "name": "sebastienserre",
+        "email": "sebastien@thivinfo.com"
+    }],
+    "type": "wordpress-muplugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
